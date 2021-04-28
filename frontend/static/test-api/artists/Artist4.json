@@ -1,0 +1,19 @@
+[
+    {
+        "artist": "Artist4",
+        "links": [
+            {
+                "icon": "https://tpb-test-cdn.sfo3.digitaloceanspaces.com/images/spotify.svg",
+                "url": "https://www.spotify.com"
+            },
+            {
+                "icon": "https://tpb-test-cdn.sfo3.digitaloceanspaces.com/images/vine.svg",
+                "url": "https://www.google.com"
+            },
+            {
+                "icon": "https://tpb-test-cdn.sfo3.digitaloceanspaces.com/images/youtube.svg",
+                "url": "https://www.youtube.com"
+            }
+        ]
+    }
+]

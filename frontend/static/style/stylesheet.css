@@ -1,0 +1,36 @@
+/* URL form Index, NOT Stylecheet */
+@font-face {font-family: Demi; src: url('/static/fonts/futura-round-demi.ttf');}
+@font-face {font-family: Round; src: url('/static/fonts/futura-round.ttf');}
+
+/* Global variables */
+:root{
+    /* Text Styles */
+    --text-color: #fff;
+    --form-color: #333;
+    --font-demi: Demi;
+    --font-round: Round;
+    --font-size-s: 2.5vmin;
+    --font-size-m: 3vmin;
+    --font-size-l: 3.5vmin;
+    --font-size-xl: 4vmin;
+
+    /* General Colors */
+    --form-fill: #1a1a1a;
+}
+
+html{
+    overscroll-behavior-y: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    background-color: #181818;
+}
+    .item-container{
+        display: grid;
+        padding: 2vh;
+        grid-template-columns: repeat(auto-fit, minmax(32vmin, 1fr));
+        grid-gap: 4vmin;
+    }

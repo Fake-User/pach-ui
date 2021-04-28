@@ -1,0 +1,35 @@
+[
+    {
+        "pack": "A1P1",
+        "artist": "Artist1"
+    },
+    {
+        "pack": "A1P2",
+        "artist": "Artist1"
+    },
+    {
+        "pack": "A2P1",
+        "artist": "Artist2"
+    },
+    {
+        "pack": "A2P2",
+        "artist": "Artist2"
+    },
+    {
+        "pack": "A3P1",
+        "artist": "Artist3"
+    },
+    {
+        "pack": "A3P2",
+        "artist": "Artist3"
+    },
+    {
+        "pack": "A4P1",
+        "artist": "Artist4"
+    },
+    {
+        "pack": "A4P2",
+        "artist": "Artist4"
+    }
+
+]
