@@ -59,7 +59,7 @@ templateAppHeader.innerHTML = `
     </style>
 
     <div id="header">
-        <img id="logo" src="/static/images/tpb.png" data-route="/">
+        <img id="logo" src="/static/images/tpb-logo.svg" data-route="/">
         <div data-route="/" id="brand">THE PACHBAY</div>
         <div><!--Dynamic Space--></div>
         <form action="#"><input id="search" type="text" placeholder="Search" name="search"></form>

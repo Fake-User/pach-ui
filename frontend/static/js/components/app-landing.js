@@ -19,7 +19,7 @@ templateAppLanding.innerHTML = `
             }
             .icon-fill{
                 background-color: #fffa;
-                border-radius: 1.5vmin;
+                border-radius: 20%;
                 filter: drop-shadow(0.4vmin 0.4vmin 0.4vmin rgba(0, 0, 0 , 0.3));
                 transition: background-color 2s;
             }
