@@ -2,7 +2,9 @@ const templateArtistCard = document.createElement('template');
 templateArtistCard.innerHTML = `
     <style>
         #artist-container{
-            width: 100%;
+            max-width: 40vh;
+            max-height: 40vh;
+            margin: 0 auto;
             aspect-ratio: 1 / 1;
             display: grid;
             grid-template-rows: 7fr 3fr;

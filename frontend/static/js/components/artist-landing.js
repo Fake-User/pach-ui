@@ -18,7 +18,7 @@ templateArtistLanding.innerHTML = `
                 max-width: 76vw;
             }
     </style>
-    
+
     <div id="landing" class="shadow-bottom"></div>
 `;
 

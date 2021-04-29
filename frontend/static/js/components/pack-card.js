@@ -2,7 +2,9 @@ const templatePackCard = document.createElement("template");
 templatePackCard.innerHTML = `
     <style>
         #pack-container{
-            width: 100%;
+            max-width: 40vh;
+            max-height: 40vh;
+            margin: 0 auto;
             aspect-ratio: 1 / 1;
             display: grid;
             grid-template-rows: 7fr 3fr;
